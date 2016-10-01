@@ -1,0 +1,19 @@
+{
+  "name": "learnyounodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EX1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilrayamajhi/learnYouNodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilrayamajhi/learnYouNodePractice/issues"
+  },
+  "homepage": "https://github.com/anilrayamajhi/learnYouNodePractice#readme"
+}
